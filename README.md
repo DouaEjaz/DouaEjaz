@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**DouaEjaz/DouaEjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Doua Ejaz, a Software Engineering graduate passionate about AI, web development, and building practical digital solutions.
 
-Here are some ideas to get you started:
+I enjoy creating clean, user-focused projects and exploring machine learning, modern web technologies, and creative problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+- Machine Learning & AI Projects
+- Web Development
+- EHR & Healthcare Tech Systems
+- UI-focused Digital Experiences
+
+## Tech Stack
+
+- Python, Java, SQL
+- HTML, CSS, JavaScript
+- MongoDB, MySQL
+- WordPress & WooCommerce
+- YOLOv8, Roboflow
+- Git & GitHub
+
+## Featured Project
+
+### Miracle Garden — Plant Health Detection 🌱
+AI-powered plant disease detection system using YOLOv8 for identifying unhealthy crop areas in real time.
+
+## A Few Things About Me
+
+- I enjoy combining creativity with technology
+- Interested in AI, digital branding, and web experiences
+- Always learning and building new things
+
+## Connect With Me
+
+- linkedin.com/in/doua-ejaz
+
+Thanks for stopping by ✨
